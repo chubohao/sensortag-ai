@@ -1,0 +1,21 @@
+{
+  "name": "demo",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "cookie-parser": "~1.4.4",
+    "debug": "~2.6.9",
+    "echarts": "^4.7.0",
+    "echarts-better": "^0.7.6",
+    "ejs": "~2.6.1",
+    "express": "~4.16.1",
+    "http-errors": "~1.6.3",
+    "moment-timezone": "^0.5.28",
+    "morgan": "~1.9.1",
+    "socket.io": "^2.3.0",
+    "swig": "^1.4.2"
+  }
+}
