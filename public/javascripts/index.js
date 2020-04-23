@@ -12,6 +12,7 @@ let A_data = []
 let Xdata = [];
 let Ydata = [];
 let max = 200;
+
 let step = 22;
 for (let i = 0; i < 128; i++) 
 {
